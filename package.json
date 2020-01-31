@@ -1,0 +1,6 @@
+{
+    "name": "emulator-pc01-lviv",
+    "version": "1.1.0",
+    "description": "Emulator PC-01 Lviv",
+    "main": "app.js"
+}
