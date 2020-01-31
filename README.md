@@ -8,6 +8,9 @@ The emulator is written in JavaScript and HTML5 in the form of Electron app or p
 It can read the following file formats: .lvr, .lvt, .sav and .e3.  
 Drag and Drop is supported.
 
+The original emulator was made by [Oleg Dolgarev](https://github.com/dolgarev/emulator-pc01-lviv).  
+This fork adds Fullscreen mode, Electron startup script and fixes the Load button and the Screenshot command in browsers.
+
 Andrey Chistyakov offered his game "Aerocobra" to include into the emulator.
 
 The emulator is distributed under the terms of GNU General Public License version 3.
