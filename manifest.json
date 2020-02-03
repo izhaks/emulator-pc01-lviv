@@ -2,9 +2,9 @@
     "manifest_version" : 2,
     "name" : "Emulator PC-01 Lviv",
     "short_name" : "Emulator",
-    "description" : "Emulator soviet computer PC-01 Lviv written in JavaScript and HTML5.",
+    "description" : "PC-01 Lviv computer emulator written in JavaScript and HTML5",
     "version" : "1.1.0",
-    "author" : "Oleg Dolgaryov",
+    "author" : "Oleg Dolgarev",
     "minimum_chrome_version" : "32",
     "offline_enabled" : true,
     "app" : {
